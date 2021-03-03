@@ -75,13 +75,13 @@ nav a:hover{
 
   /*Your code here*/
   position: relative;
-  bottom: 50px;
+  top: -50px;
 }
 /*Req 3b*/
 /*Write selector/rule property to position the skip class element*/
 .skip a:focus{
   position: relative;
-  top: 10px;
+  bottom: 10px;
 }
 
 /*Req 4*/
